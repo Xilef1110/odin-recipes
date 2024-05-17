@@ -1,3 +1,20 @@
 h1 {
     color: rgb(101, 255, 24);
 }
+
+ul.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #029e2b;
+    
+}
+.menu li {
+    float: left;
+    text-align: left;
+}
+li a{
+    display: block;
+    padding: 8px;
+    background-color: #029e2b;
+}
