@@ -1,13 +1,11 @@
-h1 {
-    color: rgb(101, 255, 24);
-}
+body {background-color: rgb(245, 244, 230);}
+h1 {color: #0da117;}
 
 ul.menu {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    background-color: #029e2b;
-    
+    background-color: pink;  
 }
 .menu li {
     float: left;
@@ -15,6 +13,6 @@ ul.menu {
 }
 li a{
     display: block;
-    padding: 8px;
+    padding: 10px;
     background-color: #029e2b;
 }
